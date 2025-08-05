@@ -1,5 +1,7 @@
 ## Hola, soy Lucas 👋
 
+![Texto alternativo](Presentación_GitHub.jpg)
+
 <!--
 **lucurban/lucurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
