@@ -7,7 +7,7 @@ De mi te cuento que son un apacionado por el desarrollo y aunque estoy dando mis
 
 Actualmente estoy trabajando en mi primer proyecto luego de terminar el curso de python, se trata de una aplicación que permite:
 
- -Leer el inventario de una tienda  
+ -Leer el inventario de una tienda<br>
  -Registrar ventas  
  -Cuando se registra una venta esta se descarga del inventario.  
 
