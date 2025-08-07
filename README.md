@@ -1,5 +1,5 @@
 ## Hola, soy Lucas 👋
-## Desarrollador full stack en crecimiento 🚀
+#### Desarrollador full stack en crecimiento 🚀
 
 ![Texto alternativo](Presentación_GitHub.jpg)
 
