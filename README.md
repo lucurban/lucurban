@@ -2,7 +2,7 @@
 
 #### Desarrollador full stack en crecimiento 🚀
 
-![Texto alternativo](Presentación_GitHub.jpg)
+![Texto alternativo](Presentación_GitHub_Esp.jpg)
 
 De mi te cuento que soy un apacionado por el desarrollo y aunque estoy dando mis primeros pasos, con disciplina pronto voy a lograr convertirme en un exitoso desarrollador full stack.
 
