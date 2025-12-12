@@ -1,7 +1,7 @@
 ## 🌟 Hi! I'm Lucas 👋
 
 #### 💻 An apasionate for the software develop
-![Texto alternativo]()
+![Texto alternativo](GitHub_Presentation.jpg)
 
 ## 👨‍💻 About me
 Although I'm just starting out, I'm clear that with discipline and perseverance I'll become a high-level Full Stack developer.
