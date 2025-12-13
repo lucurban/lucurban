@@ -6,6 +6,9 @@
 ## 👨‍💻 About me
 Although I'm just starting out, I'm clear that with discipline and perseverance I'll become a high-level Full Stack developer.
 
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## 🚧 Project in development
 I'm currently working on my first project after completing the Python course.
 
@@ -31,6 +34,9 @@ It's an application that allows you to:
 
 ## Acerca de mi 👨‍💻
 Aunque estoy dando mis primeros pasos, tengo claro que con disciplina y constancia voy a convertirme en un desarrollador Full Stack de alto nivel. 🚀
+
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🚧 Proyecto en desarrollo
 Actualmente estoy trabajando en mi primer proyecto después de completar el curso de Python.
