@@ -6,25 +6,88 @@
 ## 👨‍💻 About me
 Although I'm just starting out, I'm clear that with discipline and perseverance I'll become a high-level Full Stack developer.
 
+I'm a web developer in training, focused on remote work, combining a strong foundation in engineering, design, and web development. I excel at delivering functional projects, learning quickly, and applying structured thinking to every challenge.
+
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🚧 Project in development
-I'm currently working on my first project after completing the Python course.
+*“I like to think that each project is born from a spark of inspiration, and with discipline and creativity it is transformed into something functional and beautiful..”*
 
-It's an application that allows you to:
+## 🎯 Professional profile
+I am a Materials Engineer with experience in CAD design, currently focused on my transition to web development. This combination allows me to approach projects with a technical, organized, and problem-solving mindset.  
 
-🏪 Read a store's inventory.  
-💲 Record sales.  
-📉 Automatically update inventory.  
+I am looking for remote opportunities where I can add value from day one, while continuing to grow as a developer.
 
-## 🛠️ Technologies used
+## 🚀 Featured project
+### 🛒 TiendApp – Version 1
+Application developed in Python, oriented to the basic management of a store, using pandas and openpyxl for data handling and persistence.
+
+#### State:
+✅ Version 1 completed
+
+#### Technologies used:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Contact me 📫
+- Python
+- pandas (data processing and analysis)
+- openpyxl (reading and writing Excel files)
+
+#### Development approach:
+
+- Object-Oriented Programming (OOP)
+
+#### This project demonstrates:
+
+- Ability to take an idea from start to finish
+- Practical use of libraries to solve real-world needs
+- Code organization and structure
+- Focus on functionality before scaling
+- Discipline in releasing stable versions
+
+#### Key learnings:
+
+- Complete structuring of a Python project
+- Data manipulation with pandas
+- Integrating Excel files as a data source and destination
+- The importance of simplicity and clarity
+
+TiendApp reflects my way of working: moving forward step by step, closing cycles and constantly improving.
+
+### 🌱 I am currently working on
+
+- Developing my web portfolio as real-world HTML practice
+
+- Studying and applying CSS to improve design and visual experience
+
+- Planning improvements for TiendApp – Version 2
+
+## 🛠️ Technical skills
+### Web development
+- HTML
+- CSS (active learning)
+- Fundamentals of project logic and structure
+
+### Engineering and design
+- Materials Engineering
+- CAD Design
+- Analytical Thinking and Problem Solving
+
+### Remote work
+- Autonomy and discipline
+- Continuous learning
+- Clear communication and a focus on results
+
+## 📫 Connect me
+
+If you're looking for someone with a growth mindset, a strong technical foundation, and a genuine commitment to learning and doing a good job, this profile is a good starting point.
+
 📨 lucurban@gmail.com  
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20"/> +57 304 352 8449 
+
+Thanks for stopping by ✨
+
 
 ##
 ## 🌟 Hola! Soy Lucas 👋
@@ -40,10 +103,11 @@ Soy desarrollador en formación con enfoque en trabajo remoto, combinando bases 
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-“Me gusta pensar que cada proyecto nace de una chispa de inspiración, y con disciplina y creatividad se transforma en algo funcional y bonito.”
+*“Me gusta pensar que cada proyecto nace de una chispa de inspiración, y con disciplina y creatividad se transforma en algo funcional y bonito.”*
 
 ## 🎯 Perfil profesional
-Soy Ingeniero de Materiales con experiencia en diseño CAD, actualmente enfocado en mi transición al desarrollo web. Esta combinación me permite abordar los proyectos con una visión técnica, ordenada y orientada a la solución de problemas reales.
+Soy Ingeniero de Materiales con experiencia en diseño CAD, actualmente enfocado en mi transición al desarrollo web. Esta combinación me permite abordar los proyectos con una visión técnica, ordenada y orientada a la solución de problemas reales.  
+
 Busco oportunidades remotas donde pueda aportar valor desde el primer día, mientras sigo creciendo como desarrollador.
 
 ## 🚀 Proyecto destacado
@@ -107,7 +171,7 @@ TiendApp refleja mi forma de trabajar: avanzar paso a paso, cerrar ciclos y mejo
 - Aprendizaje constante
 - Comunicación clara y enfoque en resultados
 
-## 📫 Conectemos
+## 📫 Conecteme
 
 Si buscas a alguien con mentalidad de crecimiento, base técnica fuerte y compromiso real con el aprendizaje y el trabajo bien hecho, este perfil es un buen punto de partida.
 
